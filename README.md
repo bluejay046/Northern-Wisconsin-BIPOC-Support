@@ -1,6 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome to Northern Wisconsin BIPOC Support
 
-You can use the [editor on GitHub](https://github.com/bluejay046/bipoc-support/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+To better understand the problems facing our community- and to find solutions to those issues- we are providing an area for community members to submit stories of personal experiences that have felt inapporpriate, discriminatory, or unsafe. You can choose to remain anonymous or share your name. You can also choose whether you would like your story shared publicly or with support groups located in this website
+
+[Submit an Anonymous Story](https://github.com/bluejay046/bipoc-support/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
